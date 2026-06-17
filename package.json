@@ -2,8 +2,12 @@
   "name": "@figma/my-make-file",
   "private": true,
   "version": "0.0.1",
+  "homepage": "https://notsky99cents.github.io",
   "type": "module",
   "scripts": {
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "dev": "vite"
   },
