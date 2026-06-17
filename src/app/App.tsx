@@ -415,7 +415,7 @@ function HomeSection() {
         {/* Now playing */}
         <PixelBox color={C.green}>
           <div style={{ fontFamily: "'Press Start 2P', monospace", fontSize: "9px", color: C.green, marginBottom: "8px" }}>
-            ♪ NOW PLAYING
+            ♪ NOW PLAYING (under construction)
           </div>
           <div style={{ fontFamily: "'Share Tech Mono', monospace", fontSize: "12px", color: C.text, lineHeight: 1.5 }}>
             <div style={{ color: C.green }}>
@@ -473,7 +473,7 @@ function AboutSection() {
           </p>
           <br />
           <p>
-            when i'm not coding i'm probably playing video games, reading manga, or rewatching Gurenn Lagann for the 8th time.
+            when i'm not programming i'm probably playing video games, reading manga, or rewatching Gurenn Lagann for the 8th time.
           </p>
         </div>
       </PixelBox>

@@ -1,7 +1,7 @@
 
-  # Retro Y2K Catppuccin Website
+  # Personal Website
 
-  This is a code bundle for Retro Y2K Catppuccin Website. The original project is available at https://www.figma.com/design/wxZTKTQj1H1zkC7e2wSjOw/Retro-Y2K-Catppuccin-Website.
+  This is a code bundle for my personal website :D
 
   ## Running the code
 
